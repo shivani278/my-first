@@ -1,0 +1,129 @@
+
+body{
+    background-image: url(1234.jpg);
+    size: 1;
+}
+.title{
+ background-color:teal;
+ text-align: center;
+ font-size: xx-large;
+ font-weight: 1000;
+ font-family:cursive;
+ color: rgb(105, 8, 8);
+ margin:20px;
+ padding: 1%;   
+}
+
+.navbar li{float:left;
+    list-style:none;}
+    
+    .navbar ul{overflow:auto;}
+    
+    .navbar li a{
+    padding:20px 20px;
+    text-decoration:none;
+    color:blanchedalmond;
+    font-size:2em;
+    margin:13px 20px;}
+    
+    .navbar li a:hover{
+    text-decoration:underline;
+    font-weight:bold;}
+    
+    .logo{
+        position:absolute;
+        right:34px;
+        top:-20px;
+        display:inline-block;}
+        
+        .logo li{
+        float:right;
+        list-style:none;
+        padding:30px 30px;}
+       .logo button{
+           border-radius: 10px;
+           background-color:thistle;
+       }
+       .logo input{
+        border-radius: 10px;
+        }
+        
+        .register input{
+            margin-top: 1%;
+            text-align: center;
+            margin:10px 400px;
+            border-radius: 15px;
+            background-color:whitesmoke;
+            padding:10px 200px;}
+             .register button{
+                
+position:relative;
+display:block;
+margin:0px auto;
+padding:2px 50px;
+background-color:rgb(54, 102, 58);
+border-radius:10px;
+text-align:center;
+right: 70px;
+
+             }
+
+             .content li{float:left;
+                list-style:none;
+                padding:30px 70px;}
+                
+                .content ul{overflow:auto;}
+                .content p{
+                    
+                    color:teal;
+                    width: 500px;
+                    height: 200px;
+                    font-size: 27px;
+                }
+                .content img{
+                    position:absolute;
+                    top: 500px;
+                    
+                    width: 45em;
+                    height: 30em;
+                }
+                .play h1{
+                    text-align: center;
+                    color:snow;
+                    background-color:gray;
+                   padding: 3%;
+                   font-family:Verdana, Geneva, Tahoma, sans-serif;
+                   
+                   margin: 5%;
+                   
+                }
+                .play a{
+                    text-decoration: none;
+                }
+
+                .play h1:hover{
+                    color:orangered;
+                }
+
+                
+.footer li{
+    float:left;
+    list-style:none;}
+    .footer ul{
+    overflow:auto;}
+    .footer li l{
+    margin:1px 35px;
+    padding:0px 20px;
+    }
+    
+    .footer{
+        text-align: center;
+    height:150px;
+    width:1400px;
+    background:peru;
+    }
+    
+    .footer p{
+    color:white;
+    padding:0px 40px;
+    }
